@@ -1,0 +1,12 @@
+{
+	"name": "Example bug extension",
+	"description": "This extension is a demo for Vue 3 bug for saving data from Vue to Chrome extension storage",
+	"version": "1.0",
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"storage"
+	],
+	"manifest_version": 2
+}
