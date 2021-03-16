@@ -7,3 +7,7 @@ Repro steps:
  - pin extension (use `Arrange on your toolbar` instructions at https://support.google.com/chrome_webstore/answer/2664769)
  - click on extension's popup
  - when popup window opens, right-click on it and check developer console for errors.
+
+## Links
+ - issue reference: https://github.com/vuejs/vue-next/issues/3423 
+ - workaround: https://github.com/vuejs/vue-next/issues/3423#issuecomment-799783045
